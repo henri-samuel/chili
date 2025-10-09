@@ -1,0 +1,49 @@
+models:
+  - name: camo
+    title: CAMO
+    colour: "#a3d9c9"
+    type: evolutionary
+  - name: gooey
+    title: GOOEY
+    colour: "#f7b267"
+    type: evolutionary
+  - name: lavatmos
+    title: LavAtmos v2.0
+    colour: "#e94f37"
+    type: static
+  - name: magmatm
+    title: MagmAtm
+    colour: "#6a0572"
+    type: evolutionary
+  - name: moachi
+    title: MOAChi
+    colour: "#ffd166"
+    type: static
+  - name: moretempura
+    title: MORE+TEMPURA
+    colour: "#118ab2"
+    type: evolutionary
+  - name: pacman
+    title: PACMAN
+    colour: "#ffcb05"
+    type: evolutionary
+  - name: magmatm
+    title: MagmAtm
+    colour: "#ef476f"
+    type: evolutionary
+  - name: pcmhipt
+    title: PCM-HiPT
+    colour: "#06d6a0"
+    type: static
+  - name: proteus
+    title: PROTEUS
+    colour: "#073b4c"
+    type: evolutionary
+  - name: sonicvapour
+    title: SonicVapour
+    colour: "#ffd700"
+    type: static
+  - name: timegem
+    title: TIME-GEM
+    colour: "#8ecae6"
+    type: evolutionary
